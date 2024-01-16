@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/kffl/speedbump/lib"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin"
 )
 
 func parseArgs(args []string) (*lib.SpeedbumpCfg, error) {
