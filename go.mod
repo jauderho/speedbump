@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/alecthomas/kingpin v2.2.6+incompatible
-	github.com/hashicorp/go-hclog v1.6.2
+	github.com/hashicorp/go-hclog v1.6.3
 	github.com/stretchr/testify v1.8.4
 )
 
